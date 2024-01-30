@@ -1,0 +1,22 @@
+{
+  /// terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "Git Bash",
+  /// prettier
+  "prettier.tabWidth": 2,
+  "prettier.semi": true,
+  /// peacock
+  "peacock.affectActivityBar": false,
+  "peacock.affectStatusBar": false,
+  "peacock.color": "#dd0531", // angular
+  /// typescript
+  "typescript.referencesCodeLens.enabled": true,
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#fa1b49",
+    "titleBar.activeBackground": "#dd0531",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#dd053199",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}
